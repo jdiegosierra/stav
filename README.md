@@ -1,2 +1,2 @@
 # stav
-Prácticas de sistemas de transmisión de audio y video
+En estos ejercicios se verá gráficamente como afectan las pérdidas a los sistemas de trnasmisión.
